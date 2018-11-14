@@ -180,3 +180,14 @@ HOCs are used for many tasks, some being:
 * Props manipulation
 
 </details>
+
+### 14. If global context can now be accessed directly with `this.context` why we still need HoC?
+ 
+<details>
+    <summary>
+        Answer
+    </summary>
+    
+Encapsulation / detaching components from containers / keeping components stand-alone without 3rd party dependencies
+
+</details>
